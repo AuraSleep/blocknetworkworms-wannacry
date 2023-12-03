@@ -1,0 +1,3 @@
+# blocknetworkworms-wannacry
+
+pass: Blockworms
